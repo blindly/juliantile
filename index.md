@@ -24,7 +24,7 @@ Are you looking for a Bathroom, Kitchen, Hardwood Flooring or Home Remodeling Co
 
 **Julian Tile and Hardwood** has over 33 years of tile and hardwood installation experience and in helping homeowners just like you to create the home of their dreams! Remodeling your bathroom, kitchen or home in general is one of the best investments that you could make and a newly remodeled kitchen, bathroom or home creates an even better living environment that the entire family will enjoy for years to come.
 
-We are happy to work with your ideas, or plan your kitchen or bathroom remodeling project from start to finish. Your satisfaction is GUARANTEED and we will go out of our way to make sure you are statisfied with our work, and that your improvements to your home are done professionally and completed on time.
+We are happy to work with your ideas, or plan your kitchen or bathroom remodeling project from start to finish. Your satisfaction is GUARANTEED and we will go out of our way to make sure you are satisfied with our work, and that your improvements to your home are done professionally and completed on time.
 
 Call Julian today for a free estimate!
 
@@ -42,7 +42,7 @@ Gallery
 
 Hours
 ---
-[gimmick:GoogleMaps (zoom: 10)](Fayetteville, North Carolina)
+[gimmick:GoogleMaps (zoom: 20)](Cumberland County, North Carolina)
 
 Mon-Sat: 8AM - 5PM
 Sun: Closed
