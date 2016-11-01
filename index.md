@@ -42,7 +42,7 @@ Gallery
 
 Hours
 ---
-[gimmick:GoogleMaps (zoom: 15)](Fayetteville, North Carolina)
+[gimmick:GoogleMaps (zoom: 5)](Fayetteville, North Carolina)
 
 Mon-Sat: 8AM - 5PM
 Sun: Closed
